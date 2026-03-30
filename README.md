@@ -4,6 +4,11 @@
 
 2：在Actions菜单允许 I understand my workflows, go ahead and enable them 按钮
 
-3：在bootstrap/src/main/java/net/md_5/bungee/Bootstrap.java文件里 97到112 中添加需要的环境变量，不需要的留空，保存后Actions会自动构建
+3: 击下方文件名直达文件
+- [Bootstrap.java](./bootstrap/src/main/java/net/md_5/bungee/Bootstrap.java)
 
-4：等待3分钟左右，在右侧的Release里下载bungeecord.jar文件
+4: 修改`Bootstrap.java`文件里 97到112 行中添加需要的环境变量，不需要的留空，保存后Actions会自动构建
+
+5：等待3分钟左右，在右侧的Release里下载bungeecord.jar文件
+
+6：上传bungeecord.jar文件刀容器根目录，点击start启动即可
