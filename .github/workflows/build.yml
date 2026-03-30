@@ -37,7 +37,7 @@ jobs:
       with:
         artifacts: "bungeecord.jar"
         tag: ${{ github.ref_name }}
-        name: "NanoLimbo ${{ github.ref_name }}"
+        name: "bungeecord ${{ github.ref_name }}"
         token: ${{ secrets.GITHUB_TOKEN }}
         allowUpdates: true
         replacesArtifacts: true
