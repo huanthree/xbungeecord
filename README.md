@@ -11,4 +11,4 @@
 
 5：等待3分钟左右，在右侧的Release里下载bungeecord.jar文件
 
-6：上传bungeecord.jar文件刀容器根目录，点击start启动即可
+6：上传bungeecord.jar文件到容器根目录，点击start启动即可
